@@ -1,6 +1,6 @@
 @use 'sass:math';
 
-@function fluent(
+@function fluid(
   $min-size,
   $max-size,
   $min-breakpoint,
@@ -16,7 +16,7 @@
   @return clamp(#{$min-size}, #{$slope-to-unit}#{$unit} + #{$intercept}, #{$max-size});
 }
 
-@function fluent-text(
+@function fluid-text(
   $min-size,
   $max-size,
   $min-breakpoint,
