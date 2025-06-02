@@ -1,8 +1,8 @@
 {
   "name": "@bu0nq/asset.scss.functions",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Package for integrating Asset.SCSS.Functions",
-  "main": "function.scss",
+  "main": "functions.scss",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
