@@ -1,19 +1,19 @@
 {
-  "name": "@bu0nq/asset.scss.function",
-  "version": "0.1.1",
-  "description": "Package for integrating Asset.SCSS.Function",
+  "name": "@bu0nq/asset.scss.functions",
+  "version": "0.1.0",
+  "description": "Package for integrating Asset.SCSS.Functions",
   "main": "function.scss",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bu0nq/asset.scss.function.git"
+    "url": "git+https://github.com/bu0nq/asset.scss.functions.git"
   },
   "keywords": [
     "asset",
     "scss",
-    "function"
+    "functions"
   ],
   "author": {
     "name": "bu0nq",
@@ -21,9 +21,9 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bu0nq/asset.scss.function/issues"
+    "url": "https://github.com/bu0nq/asset.scss.functions/issues"
   },
-  "homepage": "https://github.com/bu0nq/asset.scss.function#readme",
+  "homepage": "https://github.com/bu0nq/asset.scss.functions#readme",
   "publishConfig": {
     "access": "public"
   }
